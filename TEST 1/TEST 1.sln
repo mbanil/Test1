@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST 1", "TEST 1\TEST 1.csproj", "{ADFEBF29-30A8-4322-8FE5-794016268E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{0D32B335-FAA6-4AC0-97A9-37739B7A75F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFEBF29-30A8-4322-8FE5-794016268E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFEBF29-30A8-4322-8FE5-794016268E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFEBF29-30A8-4322-8FE5-794016268E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFEBF29-30A8-4322-8FE5-794016268E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D32B335-FAA6-4AC0-97A9-37739B7A75F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D32B335-FAA6-4AC0-97A9-37739B7A75F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D32B335-FAA6-4AC0-97A9-37739B7A75F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D32B335-FAA6-4AC0-97A9-37739B7A75F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
