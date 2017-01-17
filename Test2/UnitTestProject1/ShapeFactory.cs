@@ -46,7 +46,7 @@ namespace UnitTestProject1
         public override Shape CaluclateArea(params double[] data)
         {
             if (data == null || data[0] <0)
-                throw new IndexOutOfRangeException("Input the radius");
+                throw new IndexOutOfRangeException("Input proper radius");
             area =  3.142 * data[0] * data[0];
             return this;         
         }

@@ -4,3 +4,7 @@ c:\users\mysorani\documents\visual studio 2015\Projects\Test2\Test2\bin\Debug\Te
 c:\users\mysorani\documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
 c:\users\mysorani\documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test2.exe
 c:\users\mysorani\documents\visual studio 2015\Projects\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\mysorani\Documents\Visual Studio 2015\Projects\Test2\Test2\bin\Debug\UnitTestProject1.dll
+C:\Users\mysorani\Documents\Visual Studio 2015\Projects\Test2\Test2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mysorani\Documents\Visual Studio 2015\Projects\Test2\Test2\bin\Debug\UnitTestProject1.pdb
+C:\Users\mysorani\Documents\Visual Studio 2015\Projects\Test2\Test2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
