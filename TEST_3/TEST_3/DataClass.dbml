@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Employee_Details" Class="DataClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Employee_Details;Integrated Security=True" SettingsObjectName="TEST_3.Properties.Settings" SettingsPropertyName="Employee_DetailsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee_Table" Member="Employee_Tables">
+    <Type Name="Employee_Table">
+      <Column Name="[Employee ID]" Member="Employee_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[First Name]" Member="First_Name" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="[Last Name]" Member="Last_Name" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="[Email ID]" Member="Email_ID" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
